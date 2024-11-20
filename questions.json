@@ -1,0 +1,302 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Where did Sam find the old watch?",
+    "options": [
+      "In his bedroom",
+      "In his grandpa's attic",
+      "In the basement",
+      "At a store"
+    ],
+    "correct": 1,
+    "explanation": "The text clearly states that Sam found the watch while exploring his grandpa's attic."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "What happened when Sam pressed the button on the watch?",
+    "options": [
+      "He travelled to the future",
+      "He went back in time to the 1800s",
+      "The watch stopped working",
+      "He became invisible"
+    ],
+    "correct": 1,
+    "explanation": "The story explains that after pressing the button, Sam found himself in the 1800s, surrounded by horse-drawn carriages and old-fashioned clothing."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What made Sam realise it was time to return home?",
+    "options": [
+      "He missed his family",
+      "He wanted to explore the future",
+      "He knew he had seen enough",
+      "The watch was running out of power"
+    ],
+    "correct": 2,
+    "explanation": "The story states that Sam decided it was time to return home after exploring and learning about history firsthand."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "What does \"extraordinary\" mean in the sentence, \"Sam found something extraordinary\"?",
+    "options": [
+      "Ordinary or plain",
+      "Easy to use",
+      "Broken and old",
+      "Very unusual or special"
+    ],
+    "correct": 3,
+    "explanation": "\"Extraordinary\" means something very unusual or amazing, which fits the description of the magical watch."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What does the phrase \"bustling street\" mean?",
+    "options": [
+      "A quiet and empty street",
+      "A street with a lot of activity and people",
+      "A street with only animals",
+      "A dangerous street"
+    ],
+    "correct": 1,
+    "explanation": "\"Bustling\" means full of activity, energy, and movement, which describes the street in the 1800s."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "What does \"gadgets\" refer to in the text?",
+    "options": [
+      "Historical tools",
+      "Simple objects",
+      "Small devices or tools",
+      "Large hammers"
+    ],
+    "correct": 2,
+    "explanation": "Gadgets are small, often technological devices, like those Sam brought from his time."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "What type of story is this?",
+    "options": [
+      "Non-fiction",
+      "Fantasy fiction",
+      "Historical fiction",
+      "Science fiction"
+    ],
+    "correct": 3,
+    "explanation": "This is a science fiction story because it involves time travel, a futuristic concept, combined with historical elements."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Why is the watch an important element in the story?",
+    "options": [
+      "It helps Sam find treasure",
+      "It allows Sam to time travel",
+      "It makes Sam invisible",
+      "It shows the time"
+    ],
+    "correct": 1,
+    "explanation": "The watch is a key part of the story because it enables the magical time-travelling adventure."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which element of fictional writing is shown when the watch transports Sam to the 1800s?",
+    "options": [
+      "Character development",
+      "Conflict resolution",
+      "Magical or scientific elements",
+      "Realistic setting"
+    ],
+    "correct": 2,
+    "explanation": "The ability of the watch to transport Sam is a science fiction element, adding a magical or futuristic twist to the story."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "What is one fictional element in the story?",
+    "options": [
+      "Sam is a sixth-grader",
+      "The watch can take someone back in time",
+      "Sam met his grandpa",
+      "There are horse-drawn carriages"
+    ],
+    "correct": 1,
+    "explanation": "The magical ability of the watch to time travel is a fictional element."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "How old was Jane Goodall when she first travelled to Tanzania?",
+    "options": [
+      "20 years old",
+      "26 years old",
+      "30 years old",
+      "40 years old"
+    ],
+    "correct": 1,
+    "explanation": "According to the text, Jane was 26 when she got the chance to travel to Tanzania."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Where did Jane Goodall conduct most of her research?",
+    "options": [
+      "In London",
+      "In Gombe National Park",
+      "In a laboratory",
+      "In a zoo"
+    ],
+    "correct": 1,
+    "explanation": "The text mentions that Jane spent years studying chimpanzees in Gombe National Park."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "What important discovery did Jane Goodall make?",
+    "options": [
+      "Chimpanzees can speak",
+      "Chimpanzees are herbivores",
+      "Chimpanzees live in trees",
+      "Chimpanzees use tools"
+    ],
+    "correct": 3,
+    "explanation": "Jane discovered that chimpanzees used tools, which was previously thought to be something only humans could do."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "What is Jane Goodall’s work still focused on today?",
+    "options": [
+      "Protecting chimpanzees and the planet",
+      "Inventing tools for animals",
+      "Teaching chimpanzees to speak",
+      "Conducting experiments on chimpanzees"
+    ],
+    "correct": 0,
+    "explanation": "The text states that Jane continues to work for the protection of chimpanzees and the environment, even in her 80s."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "What does \"groundbreaking\" mean in the sentence \"known for her groundbreaking work\"?",
+    "options": [
+      "Boring",
+      "Old-fashioned",
+      "Very important and new",
+      "Easy to understand"
+    ],
+    "correct": 2,
+    "explanation": "\"Groundbreaking\" means something new and important, especially when it changes ideas or approaches."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "What does \"endangered\" mean in the context of \"protecting endangered animals\"?",
+    "options": [
+      "Animals that are well protected",
+      "Animals that are at risk of disappearing",
+      "Animals that are common",
+      "Animals that are easy to find"
+    ],
+    "correct": 1,
+    "explanation": "\"Endangered\" refers to species that are at risk of extinction."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which of the following best describes the writing style of the text?",
+    "options": [
+      "Fictional and imaginative",
+      "Informational and factual",
+      "Poetic and emotional",
+      "Humorous and light-hearted"
+    ],
+    "correct": 1,
+    "explanation": "The text is informational and provides facts about Jane Goodall's life and work."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Why did the author include the detail about Jane's age (in her 80s)?",
+    "options": [
+      "To explain how old Jane is now",
+      "To focus on her personal life",
+      "To show that she was old when she started her work",
+      "To show that age does not stop her from working"
+    ],
+    "correct": 3,
+    "explanation": "The author includes Jane’s age to highlight that despite being in her 80s, she is still actively working for conservation."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which of the following best summarises the main idea of the text?",
+    "options": [
+      "Jane Goodall spent her life inventing new tools",
+      "Jane Goodall discovered chimpanzees can talk",
+      "Jane Goodall changed how we understand animals and works to protect them",
+      "Jane Goodall became famous for travelling the world"
+    ],
+    "correct": 2,
+    "explanation": "The main idea of the text is that Jane Goodall revolutionised our understanding of animals and continues to work for their protection."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "What is the meaning of the word \"advocate\" in the sentence \"Jane became a strong advocate for wildlife conservation\"?",
+    "options": [
+      "Someone who opposes something",
+      "Someone who explains something",
+      "Someone who supports or argues for something",
+      "Someone who writes books"
+    ],
+    "correct": 2,
+    "explanation": "An \"advocate\" is a person who supports or speaks in favour of something, like Jane supporting wildlife conservation."
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "Which of the following is an example of non-fiction?",
+    "options": [
+      "A story about a talking dog",
+      "A biography about a famous person",
+      "A fairy tale about a magical kingdom",
+      "A fantasy novel about dragons"
+    ],
+    "correct": 1,
+    "explanation": "Non-fiction refers to real events, people, or facts. A biography is a true account of someone's life, so it is non-fiction. The other options describe fictional elements such as talking animals and magical worlds."
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "Which of these sentences describes a fiction text?",
+    "options": [
+      "A book about how to build a treehouse",
+      "An article about how whales communicate",
+      "A report on how climate change affects the environment",
+      "A story about a boy who flies with wings he made himself"
+    ],
+    "correct": 3,
+    "explanation": "Fiction involves imaginary events or characters. A story about a boy flying with homemade wings is imaginative and fictional. The other options describe real topics or factual writing."
+  },
+  {
+    "questionNo": "Q23.",
+    "question": "What is the key difference between fiction and non-fiction?",
+    "options": [
+      "Fiction is always true, while non-fiction is made up",
+      "Fiction is created from imagination, while non-fiction is based on facts",
+      "Fiction never has characters, but non-fiction always does",
+      "Fiction is written to inform, while non-fiction is written to entertain"
+    ],
+    "correct": 1,
+    "explanation": "Fiction is based on imaginary events and characters, while non-fiction presents facts or real events. This is the key distinction between the two."
+  },
+  {
+    "questionNo": "Q24.",
+    "question": "Which one of these is an example of non-fiction writing?",
+    "options": [
+      "A news article about a school play",
+      "A poem about a dragon",
+      "A story about a magical forest",
+      "A science fiction novel"
+    ],
+    "correct": 0,
+    "explanation": "A news article provides factual information, which makes it non-fiction. The other choices involve imaginative or fantasy writing, which are fictional."
+  },
+  {
+    "questionNo": "Q25.",
+    "question": "If a text describes real-life events or people, it is most likely:",
+    "options": [
+      "Fiction",
+      "Non-fiction",
+      "Fantasy",
+      "Science fiction"
+    ],
+    "correct": 1,
+    "explanation": "Non-fiction texts describe real people, places, events, or ideas. Fiction, on the other hand, involves imaginary stories."
+  }
+]
